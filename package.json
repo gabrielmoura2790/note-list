@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-firebase/app": "^12.8.0",
+    "@react-native-firebase/firestore": "^12.8.0",
     "react": "17.0.1",
     "react-native": "0.64.2",
     "react-native-vector-icons": "^8.1.0",
