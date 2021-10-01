@@ -10,7 +10,7 @@ Aplicativo para lhe ajudar a se organizar colocando seus afazes diários e marca
 ## ✨ Tecnologias
 
 -   [ ] React Native
--   [ ] Javacript
+-   [ ] JavaScript
 -   [ ] Vector Icons
 -   [ ] Firebase
 -   [ ] Firestore
